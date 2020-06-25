@@ -139,7 +139,28 @@ ul {
     width: 70%;
     box-shadow: 0 2rem 5rem rgba(51, 51, 51, 0.4);
     transform: skewX(20deg);
+    display: inline-block;
   }
+
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin-left: 5rem;
+    margin-top: 5rem;
+    text-align: center;
+    font-family: arial;
+    display: inline-block;
+  }
+  .clearfix{
+    clear: both;
+  }
+
+
+
+
+
+
+
   
   .DYK {
     transform: skewX(-20deg);
