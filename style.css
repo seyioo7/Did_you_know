@@ -303,6 +303,7 @@ li a:hover:not(.active) {
   }
 }
 
+
 @media (max-width: 1000px) {
   .nav-list {
     flex-direction: column;
