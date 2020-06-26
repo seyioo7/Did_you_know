@@ -218,9 +218,9 @@ ul {
   
 
   #text {
-    background-color: gold;
+    background-color: white;
     width: 1000px;
-    border: 5px solid green;
+    border: 5px solid black;
     padding: 50px;
     margin: auto ;
     text-justify: auto;

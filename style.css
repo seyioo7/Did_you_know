@@ -303,10 +303,7 @@ li a:hover:not(.active) {
   }
 }
 
-
-@media (max-width: 1000px) {
-  .nav-list {
-    flex-direction: column;
-  }
-
-}
+@media screen and (max-width: 800px) {
+  .left, .main, .right {
+    width: 100%;
+  }}
